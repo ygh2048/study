@@ -3,6 +3,8 @@ import math
 import numpy as np
 
 
+
+
 """ sensor.reset()                      # Reset and initialize the sensor.
 sensor.set_pixformat(sensor.RGB565) # Set pixel format to RGB565 (or GRAYSCALE)
 sensor.set_framesize(sensor.QQVGA)  # Set frame size to QVGA (320x240)
